@@ -14,4 +14,4 @@ If the message they chat is the answer, they can get score ( +10 points )
 
 # Others
 
-![other](./assets/img/other.png)
+![others](./assets/img/others.png)
